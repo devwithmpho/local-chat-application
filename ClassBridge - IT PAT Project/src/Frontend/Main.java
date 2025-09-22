@@ -17,7 +17,8 @@ public class Main {
         
         // reading the file that contains logged in users to do the check of whether to have a user already logged in or make the user sign up
         try {
-            Scanner scFile = new Scanner(new File("loggedInUser.txt"));
+            File loggedInUserFile = new File("loggedInUser.txt");
+            Scanner scFile = new Scanner(loggedInUserFile);
             
             if (scFile.hasNext()) {
                 String line = scFile.nextLine();
