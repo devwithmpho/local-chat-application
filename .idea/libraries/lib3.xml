@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ClassBridge - IT PAT Project/src/Backend/out/production/Backend/Backend/libs/UCanAccess-5.0.1.bin/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClassBridge - IT PAT Project/src/Backend/out/production/Backend/Backend/libs/UCanAccess-5.0.1.bin/lib/jackcess-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClassBridge - IT PAT Project/src/Backend/out/production/Backend/Backend/libs/UCanAccess-5.0.1.bin/lib/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClassBridge - IT PAT Project/src/Backend/out/production/Backend/Backend/libs/UCanAccess-5.0.1.bin/lib/hsqldb-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jbcrypt-0.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ClassBridge - IT PAT Project/src/Backend/out/production/Backend/Backend/libs/jbcrypt-0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
